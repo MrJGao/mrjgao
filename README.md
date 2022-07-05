@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **MrJGao/mrjgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a Ph.D. candidate at Center for Geospatial Analytics, North Carolina State University. I work in the [Spatial Ecosystems Analytics Lab (SEAL)](https://ncsu-seal.netlify.app/).
+
+:rocket: Passion: developing cool technologies to answer important science questions, and then share my knowledge to the whole world! 
+
+:star: Keywords: Remote sensing; Climate change; Land surface phenology; Open science; Applied statistics; Bayesian
+
+I play guitar:guitar: and I love singing:microphone:!
