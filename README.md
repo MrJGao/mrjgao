@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a Ph.D. candidate at Center for Geospatial Analytics, North Carolina State University. I work in the [Spatial Ecosystems Analytics Lab (SEAL)](https://ncsu-seal.netlify.app/).
+I'm currently a Ph.D. candidate at Center for Geospatial Analytics, North Carolina State University. I work in the [Spatial Ecosystems Analytics Lab (SEAL)](https://ncsu-seal.netlify.app/). I am also a NASA Future Investigator working on using satellite 🛰 images to investigate plant phenology 🌱.
 
 :rocket: Passion: developing cool technologies to answer important science questions, and then share my knowledge to the whole world! 
 
 :star: Keywords: Remote sensing; Climate change; Land surface phenology; Open science; Applied statistics; Bayesian
 
-I play guitar:guitar: and I love singing:microphone:!
+I play guitar :guitar: and I love singing :microphone:!
