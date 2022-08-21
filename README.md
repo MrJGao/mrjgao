@@ -21,4 +21,4 @@ I'm currently a Ph.D. candidate at Center for Geospatial Analytics, North Caroli
 
 :star: Keywords: Remote sensing; Climate change; Land surface phenology; Open science; Applied statistics; Bayesian
 
-I play guitar :guitar: and I love singing :microphone:!
+I play guitar :guitar: and I love singing :microphone:
