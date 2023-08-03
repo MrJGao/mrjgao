@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there👋 My name is Xiaojie Gao (高孝杰). I'm currently a Ph.D. candidate at Center for Geospatial Analytics, North Carolina State University. I work in the [Spatial Ecosystems Analytics Lab (SEAL)](https://ncsu-seal.netlify.app/). I am also a NASA Future Investigator working on using satellite 🛰 images to investigate plant phenology 🌱.
+Hi there👋 My name is Xiaojie Gao (高孝杰). I'm currently a Postdoc fellow at Harvard Forest, Havard University, starting in August 2023. I am in the [Thompson Lab](https://harvardforest.fas.harvard.edu/jthompson) working on Long Term Ecological Research Program. I finished my Ph.D. at Center for Geospatial Analytics, North Carolina State University, working in the [Spatial Ecosystems Analytics Lab (SEAL)](https://ncsu-seal.netlify.app/). During my Ph.D. study, I was also a NASA Future Investigator working on using satellite 🛰 images to investigate plant phenology 🌱, which was my dissertation research.
 
 :rocket: Passion: develop cool technologies to answer important science questions, and then share my knowledge to the whole world! 
 
