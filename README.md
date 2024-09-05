@@ -22,3 +22,5 @@ Hi there👋 My name is Xiaojie Gao (高孝杰). I'm currently a Postdoc fellow 
 :star: Keywords: Remote sensing; Climate change; Land surface phenology; Open science; Applied statistics; Bayesian
 
 I play guitar :guitar: and I love singing :microphone:
+
+Learn more about me on my [personal website](https://xjgao.netlify.app/)!
